@@ -1,5 +1,4 @@
-# verathon-marketing-dashboard
-A comprehensive digital and webinar marketing management guidance for Verathon
+
 # Verathon Marketing Dashboard
 
 A comprehensive digital and webinar marketing management platform with integrated competitive intelligence for Verathon.
